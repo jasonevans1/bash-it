@@ -1,0 +1,7 @@
+[alias]
+	up = pull --rebase --autostash
+[user]
+	name = Jason Evans
+	email = evans022@gmail.com
+[core]
+	autocrlf = input
